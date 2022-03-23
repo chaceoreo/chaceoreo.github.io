@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Chace Wang
+subtitle: A boy
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  This site contains my project work, photos and stories. Its me speaking to the world.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://chacewang.me" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -26,35 +26,21 @@ urls:
 
 author_logo: profile.png
 author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+author_bio: Hi, My name is Chace Wang. 
+author_email: "chace.q.k.wang@gmail.com"
+author_location: New Zealand
+author_website_url: "https://chacewang.me"
+typewrite-text: This site contains my project work, photos and stories. Its me speaking to the world.
+hero_cover_img: chace_home_desk.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
-# Experiences
-author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
 
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: St Kentigern College
+                college_url: https://www.saintkentigern.com/
+                college_degree: Year 8 Student
+                description: Year 7 & 8 Sportsman nominee, academic award for year 7, Athletics Overall Champ
                 visibility: true
 
 # Projects
@@ -71,16 +57,10 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  sujaykundu777
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+#twitter_username: johndoe
+#github_username:  sujaykundu777
+#facebook_username: johndoe
+
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
 
