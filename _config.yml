@@ -30,6 +30,7 @@ author_bio: Hi, My name is Chace Wang.
 author_email: "chace.q.k.wang@gmail.com"
 author_location: New Zealand
 author_website_url: "https://chacewang.me"
+author_avatar: /assets/img/chace_head.png
 typewrite-text: Original Oreos are better than chocolate ones.
 hero_cover_img: chace_home_desk.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
