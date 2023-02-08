@@ -1,5 +1,5 @@
 title: Chace
-subtitle: An Oreo
+subtitle: PC fanatic
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains my project work, photos and stories. Its me speaking to the world.
 
@@ -26,13 +26,13 @@ urls:
 
 author_logo: oreo.png
 author: Chace Wang
-author_bio: Hi, My name is Chace Wang. 
+author_bio: Hi, My name is Chace Wang and I'm kinda into Custom rigs. 
 author_email: "chace.q.k.wang@gmail.com"
 author_location: New Zealand
 author_website_url: "https://chacewang.me"
-author_avatar: chace_head.png
-typewrite-text: Original Oreos are better than chocolate ones.
-hero_cover_img: chace_home_desk.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+author_avatar: armed_monkey.png
+typewrite-text:Team red, AMD > Intel
+hero_cover_img: new_pc.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 
 # Education
@@ -40,7 +40,7 @@ author_education_details:
               - college_logo: mit.png
                 college_name: St Kentigern College
                 college_url: https://www.saintkentigern.com/
-                college_degree: Year 8 Student
+                college_degree: Year 9 Student
                 description: Year 7 & 8 Sportsman nominee, academic award for year 7, Athletics Overall Champ
                 visibility: true
 
