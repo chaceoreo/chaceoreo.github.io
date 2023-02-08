@@ -5,8 +5,8 @@ Summary: ""
 author: Chace Wang
 date: '2022-03-24 14:35:23 +0530'
 category: 
-keywords: CV, resume, chace
-permalink: /blog/chace-cv/
+keywords: PC, DIY, chace, consulting, gaming
+permalink: /blog/chace-consulting-service/
 usemathjax: true
 ---
 
@@ -28,13 +28,13 @@ Parents are more willing to pay for your learning than for a ‘toy’
 
 ### Pricing:
 
-$10/Hour (Minimum 5 hours per purchase and maximum 20 hours in which after that everything is free)
+--$10/Hour (Minimum 5 hours per purchase and maximum 20 hours in which after that everything is free)
 
 
 (You can pick what you need and all services will be charged separatley). 
 
 ### Qualifications:
 
-Real life experience 
-Active participant of geekzone DIY PC forums
-Bronze medal nation robo-cup senior rescue 
+--Real life experience 
+--Active participant of geekzone DIY PC forums
+--Bronze medal nation robo-cup senior rescue 
