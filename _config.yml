@@ -25,13 +25,13 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: oreo.png
-author: Chace Wang
+author: chacewang
 author_bio: Hi, My name is Chace Wang and I'm kinda into Custom rigs. 
 author_email: "chace.q.k.wang@gmail.com"
 author_location: New Zealand
 author_website_url: "https://chacewang.me"
 author_avatar: armed_monkey.png
-typewrite-text:Team red, AMD > Intel
+typewrite-text: Team red, AMD > Intel
 hero_cover_img: new_pc.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 
@@ -41,7 +41,7 @@ author_education_details:
                 college_name: St Kentigern College
                 college_url: https://www.saintkentigern.com/
                 college_degree: Year 9 Student
-                description: Year 7 & 8 Sportsman nominee, academic award for year 7, Athletics Overall Champ
+                description: Year 7 & 8 Sportsman of the the year, academic award for year 7, Athletics Overall Champ
                 visibility: true
 
 # Projects
