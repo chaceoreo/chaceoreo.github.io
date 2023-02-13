@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: oreo.png
+author_logo: profile.png
 author: chacewang
 author_bio: Hi, My name is Chace Wang and I'm kinda into Custom rigs. 
 author_email: "chace.q.k.wang@gmail.com"

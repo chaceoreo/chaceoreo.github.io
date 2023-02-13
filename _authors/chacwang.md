@@ -3,7 +3,7 @@ name: Chace Wang
 username: chacwang
 bio: "Hi I am Chace, a student who's bored."
 site: https://chacewang.me
-avatar: chace_head.png
+avatar: new_pc_image_from_dad.png
 email: chace.q.k.wang@gmail.com
 social:
     - title: "github"

@@ -35,6 +35,6 @@ Parents are more willing to pay for your learning than for a ‘toy’
 
 ## Qualifications:
 
-- Real life experience 
+- Real life building experience 
 - Active participant of geekzone DIY PC forums
 - Bronze medal nation robo-cup senior rescue 
